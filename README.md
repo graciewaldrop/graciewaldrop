@@ -26,17 +26,22 @@
 </div>
 
 ```js
-const gracie = {
-  username: "graciewaldrop",
-  vibe: "pink-coded programmer energy 💕",
-  loves: [
-    "coding",
-    "building cool stuff",
-    "creative projects",
-    "cute designs",
-    "learning new things"
-  ],
-  currentlyBuilding: "projects that are useful, pretty, and fun",
-  favoriteLoop: "dream → plan → code → debug → improve",
-  motto: "Make it work. Make it cute. Make it yours."
-};
+
+Or, if you want it to feel more natural and less like code, use this instead:
+
+```md
+---
+
+<div align="center">
+
+## ✨ About Me ✨
+
+</div>
+
+Hi, I’m **Gracie** 🌸
+
+I love coding and building cool stuff that helps people.  
+I enjoy turning ideas into real projects, learning new technologies, and creating things that are useful, fun, and meaningful.
+
+```txt
+dream → plan → code → build → help people
