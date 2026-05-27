@@ -1,25 +1,42 @@
 <div align="center">
 
-# ✨ Hey, I'm Gracie ✨
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Girl+who+loves+to+code+%F0%9F%92%BB;Building+cool+stuff+one+project+at+a+time+%E2%9C%A8;Debugging%2C+designing%2C+and+dreaming+in+pink+%F0%9F%8C%B8;Code.+Create.+Repeat.+%F0%9F%92%95" alt="Typing SVG" />
+<img src="./gracie-pixel-banner.png" width="100%" alt="Gracie pixel coder banner" />
 
 <br/>
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="260" />
+# 🌸 Hi, I'm Gracie 🌸
+
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&color=FF69B4&center=true&vCenter=true&width=800&lines=Programmer+%F0%9F%92%BB;Creative+Builder+%E2%9C%A8;Making+cool+stuff+with+code+%F0%9F%8C%B8;Pink-coded+developer+energy+%F0%9F%92%95;Dream+%3E+Plan+%3E+Code+%3E+Repeat" 
+  alt="Typing SVG" 
+/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=graciewaldrop&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
 
 </div>
 
 ---
 
-## 🌸 About Me
+<div align="center">
+
+## ✨ About Me ✨
+
+</div>
 
 ```js
 const gracie = {
-  name: "Gracie",
+  username: "graciewaldrop",
   vibe: "pink-coded programmer energy 💕",
-  loves: ["coding", "building cool stuff", "creative projects", "learning new tech"],
-  currentlyBuilding: "awesome GitHub projects",
-  goal: "turn ideas into beautiful, useful things",
-  motto: "Code it. Break it. Fix it. Make it cute."
+  loves: [
+    "coding",
+    "building cool stuff",
+    "creative projects",
+    "cute designs",
+    "learning new things"
+  ],
+  currentlyBuilding: "projects that are useful, pretty, and fun",
+  favoriteLoop: "dream → plan → code → debug → improve",
+  motto: "Make it work. Make it cute. Make it yours."
 };
