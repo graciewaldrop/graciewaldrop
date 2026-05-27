@@ -21,18 +21,6 @@
 
 <div align="center">
 
-## ✨ About Me ✨
-
-</div>
-
-```js
-
-Or, if you want it to feel more natural and less like code, use this instead:
-
-```md
----
-
-<div align="center">
 
 ## ✨ About Me ✨
 
@@ -43,5 +31,4 @@ Hi, I’m **Gracie** 🌸
 I love coding and building cool stuff that helps people.  
 I enjoy turning ideas into real projects, learning new technologies, and creating things that are useful, fun, and meaningful.
 
-```txt
 dream → plan → code → build → help people
